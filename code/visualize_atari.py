@@ -77,7 +77,6 @@ if __name__ == "__main__":
                 dist = actor(obs_tensor)
                 action = torch.argmax(dist.logits, dim=-1).item()
                 actions.add(action)
-                print(actions)
 
             obs, reward, terminated, truncated, info = env.step(action)
             obs = np.array(obs)

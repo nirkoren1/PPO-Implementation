@@ -145,7 +145,7 @@ python code/visualize.py --env-name Walker2d-v5 --model-path code/models/best_ac
 
 ### Atari Visualization
 ```bash
-python code/visualize_atari.py --env-name ALE/Breakout-v5 --model-path code/models/best_actor_Clip_Loss_ALE_Breakout-v5.pth
+python code/visualize_atari.py --env-name ALE/Alien-v5 --model-path code/models/best_actor_Clip_Loss_ALE_Alien-v5.pth
 ```
 
 ## Experiments
