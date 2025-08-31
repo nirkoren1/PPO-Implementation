@@ -1,0 +1,232 @@
+algorithm,environment,seed,final_reward
+No clipping or penalty,Walker2d-v5,1,22.585294275474517
+No clipping or penalty,Walker2d-v5,2,-31.173307078564967
+No clipping or penalty,Walker2d-v5,3,-105.83123428023642
+No clipping or penalty,HalfCheetah-v5,1,-1068947.8036757486
+No clipping or penalty,HalfCheetah-v5,2,-5930.0806638600725
+No clipping or penalty,HalfCheetah-v5,3,-3702422.9417058434
+No clipping or penalty,Hopper-v5,1,16.0312661305711
+No clipping or penalty,Hopper-v5,2,-103.0596261958678
+No clipping or penalty,Hopper-v5,3,5.941608165513117
+No clipping or penalty,InvertedDoublePendulum-v5,1,21.572186354699948
+No clipping or penalty,InvertedDoublePendulum-v5,2,20.393266091247355
+No clipping or penalty,InvertedDoublePendulum-v5,3,20.984994373728814
+No clipping or penalty,InvertedPendulum-v5,1,2.0
+No clipping or penalty,InvertedPendulum-v5,2,2.0
+No clipping or penalty,InvertedPendulum-v5,3,2.0
+No clipping or penalty,Reacher-v5,1,-10475.94929647169
+No clipping or penalty,Reacher-v5,2,-1184.8499140579568
+No clipping or penalty,Reacher-v5,3,-191857.56198503234
+No clipping or penalty,Swimmer-v5,1,-0.31464853736368714
+No clipping or penalty,Swimmer-v5,2,-18.58419692590068
+No clipping or penalty,Swimmer-v5,3,-22.180827864936987
+"Clipping, ε = 0.1",Walker2d-v5,1,1049.70290210806
+"Clipping, ε = 0.1",Walker2d-v5,2,688.4459351450599
+"Clipping, ε = 0.1",Walker2d-v5,3,932.7593257719589
+"Clipping, ε = 0.1",HalfCheetah-v5,1,1483.2177075421705
+"Clipping, ε = 0.1",HalfCheetah-v5,2,1224.98919340088
+"Clipping, ε = 0.1",HalfCheetah-v5,3,1304.0881720846583
+"Clipping, ε = 0.1",Hopper-v5,1,1726.4387777607647
+"Clipping, ε = 0.1",Hopper-v5,2,1170.4347679919579
+"Clipping, ε = 0.1",Hopper-v5,3,1632.9014662485756
+"Clipping, ε = 0.1",InvertedDoublePendulum-v5,1,5423.000170757987
+"Clipping, ε = 0.1",InvertedDoublePendulum-v5,2,2452.370440416107
+"Clipping, ε = 0.1",InvertedDoublePendulum-v5,3,5333.070120123081
+"Clipping, ε = 0.1",InvertedPendulum-v5,1,632.93
+"Clipping, ε = 0.1",InvertedPendulum-v5,2,694.15
+"Clipping, ε = 0.1",InvertedPendulum-v5,3,601.62
+"Clipping, ε = 0.1",Reacher-v5,1,-6.389505147204749
+"Clipping, ε = 0.1",Reacher-v5,2,-8.549680943753458
+"Clipping, ε = 0.1",Reacher-v5,3,-6.409649313532523
+"Clipping, ε = 0.1",Swimmer-v5,1,101.65389167023658
+"Clipping, ε = 0.1",Swimmer-v5,2,106.10812889676306
+"Clipping, ε = 0.1",Swimmer-v5,3,94.18163162429377
+"Clipping, ε = 0.2",Walker2d-v5,1,725.9302865620444
+"Clipping, ε = 0.2",Walker2d-v5,2,982.7313427612831
+"Clipping, ε = 0.2",Walker2d-v5,3,652.397312636125
+"Clipping, ε = 0.2",HalfCheetah-v5,1,1639.4763423798154
+"Clipping, ε = 0.2",HalfCheetah-v5,2,-700.513887949359
+"Clipping, ε = 0.2",HalfCheetah-v5,3,1097.7841575734992
+"Clipping, ε = 0.2",Hopper-v5,1,1365.5716106966806
+"Clipping, ε = 0.2",Hopper-v5,2,1068.2331023444706
+"Clipping, ε = 0.2",Hopper-v5,3,1562.328898887654
+"Clipping, ε = 0.2",InvertedDoublePendulum-v5,1,4228.653781416908
+"Clipping, ε = 0.2",InvertedDoublePendulum-v5,2,3154.857743180721
+"Clipping, ε = 0.2",InvertedDoublePendulum-v5,3,5651.123639391506
+"Clipping, ε = 0.2",InvertedPendulum-v5,1,884.28
+"Clipping, ε = 0.2",InvertedPendulum-v5,2,975.1
+"Clipping, ε = 0.2",InvertedPendulum-v5,3,906.62
+"Clipping, ε = 0.2",Reacher-v5,1,-6.8762885855503555
+"Clipping, ε = 0.2",Reacher-v5,2,-7.712314962927616
+"Clipping, ε = 0.2",Reacher-v5,3,-5.696825995026419
+"Clipping, ε = 0.2",Swimmer-v5,1,84.40242721398556
+"Clipping, ε = 0.2",Swimmer-v5,2,84.20932881239384
+"Clipping, ε = 0.2",Swimmer-v5,3,72.85789590376508
+"Clipping, ε = 0.3",Walker2d-v5,1,1165.1279195294735
+"Clipping, ε = 0.3",Walker2d-v5,2,872.8462117991315
+"Clipping, ε = 0.3",Walker2d-v5,3,1651.5255345361336
+"Clipping, ε = 0.3",HalfCheetah-v5,1,851.9538799588945
+"Clipping, ε = 0.3",HalfCheetah-v5,2,1894.2192735334227
+"Clipping, ε = 0.3",HalfCheetah-v5,3,2649.536304062243
+"Clipping, ε = 0.3",Hopper-v5,1,754.6867228595663
+"Clipping, ε = 0.3",Hopper-v5,2,998.1005097631778
+"Clipping, ε = 0.3",Hopper-v5,3,959.8404689193006
+"Clipping, ε = 0.3",InvertedDoublePendulum-v5,1,142.53535786783294
+"Clipping, ε = 0.3",InvertedDoublePendulum-v5,2,296.4714294787723
+"Clipping, ε = 0.3",InvertedDoublePendulum-v5,3,320.8584090931018
+"Clipping, ε = 0.3",InvertedPendulum-v5,1,725.18
+"Clipping, ε = 0.3",InvertedPendulum-v5,2,867.61
+"Clipping, ε = 0.3",InvertedPendulum-v5,3,793.44
+"Clipping, ε = 0.3",Reacher-v5,1,-9.55400487006596
+"Clipping, ε = 0.3",Reacher-v5,2,-8.763600321519037
+"Clipping, ε = 0.3",Reacher-v5,3,-18.74130873269845
+"Clipping, ε = 0.3",Swimmer-v5,1,53.336299163358746
+"Clipping, ε = 0.3",Swimmer-v5,2,46.447236157109536
+"Clipping, ε = 0.3",Swimmer-v5,3,67.92518748077718
+"Adaptive KL, dtarg = 0.003",Walker2d-v5,1,280.98169961099916
+"Adaptive KL, dtarg = 0.003",Walker2d-v5,2,350.00036946774344
+"Adaptive KL, dtarg = 0.003",Walker2d-v5,3,353.3511320843165
+"Adaptive KL, dtarg = 0.003",HalfCheetah-v5,1,-34151.39095614235
+"Adaptive KL, dtarg = 0.003",HalfCheetah-v5,2,-33921.37590944553
+"Adaptive KL, dtarg = 0.003",HalfCheetah-v5,3,-34802.39868706441
+"Adaptive KL, dtarg = 0.003",Hopper-v5,1,1190.114733398663
+"Adaptive KL, dtarg = 0.003",Hopper-v5,2,953.7331940988126
+"Adaptive KL, dtarg = 0.003",Hopper-v5,3,1677.9618502841217
+"Adaptive KL, dtarg = 0.003",InvertedDoublePendulum-v5,1,6509.852120302735
+"Adaptive KL, dtarg = 0.003",InvertedDoublePendulum-v5,2,5769.054915153972
+"Adaptive KL, dtarg = 0.003",InvertedDoublePendulum-v5,3,6208.48955926426
+"Adaptive KL, dtarg = 0.003",InvertedPendulum-v5,1,794.97
+"Adaptive KL, dtarg = 0.003",InvertedPendulum-v5,2,915.55
+"Adaptive KL, dtarg = 0.003",InvertedPendulum-v5,3,930.89
+"Adaptive KL, dtarg = 0.003",Reacher-v5,1,-11.50437580705196
+"Adaptive KL, dtarg = 0.003",Reacher-v5,2,-8579246.992968732
+"Adaptive KL, dtarg = 0.003",Reacher-v5,3,-10.273925223496958
+"Adaptive KL, dtarg = 0.003",Swimmer-v5,1,88.67078956414963
+"Adaptive KL, dtarg = 0.003",Swimmer-v5,2,94.390595243733
+"Adaptive KL, dtarg = 0.003",Swimmer-v5,3,97.42521239878032
+"Adaptive KL, dtarg = 0.01",Walker2d-v5,1,345.4647733968852
+"Adaptive KL, dtarg = 0.01",Walker2d-v5,2,413.0100145059439
+"Adaptive KL, dtarg = 0.01",Walker2d-v5,3,295.4453557814484
+"Adaptive KL, dtarg = 0.01",HalfCheetah-v5,1,-29633.078701028782
+"Adaptive KL, dtarg = 0.01",HalfCheetah-v5,2,-31542.986623096513
+"Adaptive KL, dtarg = 0.01",HalfCheetah-v5,3,-30772.563033274153
+"Adaptive KL, dtarg = 0.01",Hopper-v5,1,1576.236861063993
+"Adaptive KL, dtarg = 0.01",Hopper-v5,2,1135.6917380602179
+"Adaptive KL, dtarg = 0.01",Hopper-v5,3,991.9375549887576
+"Adaptive KL, dtarg = 0.01",InvertedDoublePendulum-v5,1,5152.594101650175
+"Adaptive KL, dtarg = 0.01",InvertedDoublePendulum-v5,2,5710.207649899903
+"Adaptive KL, dtarg = 0.01",InvertedDoublePendulum-v5,3,5514.412851245586
+"Adaptive KL, dtarg = 0.01",InvertedPendulum-v5,1,858.65
+"Adaptive KL, dtarg = 0.01",InvertedPendulum-v5,2,806.74
+"Adaptive KL, dtarg = 0.01",InvertedPendulum-v5,3,1000.0
+"Adaptive KL, dtarg = 0.01",Reacher-v5,1,-7.175039625561757
+"Adaptive KL, dtarg = 0.01",Reacher-v5,2,-15.077641850560214
+"Adaptive KL, dtarg = 0.01",Reacher-v5,3,-10.347218211249162
+"Adaptive KL, dtarg = 0.01",Swimmer-v5,1,93.64630061055757
+"Adaptive KL, dtarg = 0.01",Swimmer-v5,2,85.93743744695264
+"Adaptive KL, dtarg = 0.01",Swimmer-v5,3,84.89904329899751
+"Adaptive KL, dtarg = 0.03",Walker2d-v5,1,273.94025482724265
+"Adaptive KL, dtarg = 0.03",Walker2d-v5,2,251.0567557389851
+"Adaptive KL, dtarg = 0.03",Walker2d-v5,3,351.1511140801568
+"Adaptive KL, dtarg = 0.03",HalfCheetah-v5,1,-12521.751764736988
+"Adaptive KL, dtarg = 0.03",HalfCheetah-v5,2,-21993.491896988136
+"Adaptive KL, dtarg = 0.03",HalfCheetah-v5,3,-24858.552730630887
+"Adaptive KL, dtarg = 0.03",Hopper-v5,1,971.5628424792293
+"Adaptive KL, dtarg = 0.03",Hopper-v5,2,1019.4248089452753
+"Adaptive KL, dtarg = 0.03",Hopper-v5,3,1134.9170499870022
+"Adaptive KL, dtarg = 0.03",InvertedDoublePendulum-v5,1,4264.070874146461
+"Adaptive KL, dtarg = 0.03",InvertedDoublePendulum-v5,2,3783.3180126518414
+"Adaptive KL, dtarg = 0.03",InvertedDoublePendulum-v5,3,4178.133305681012
+"Adaptive KL, dtarg = 0.03",InvertedPendulum-v5,1,996.04
+"Adaptive KL, dtarg = 0.03",InvertedPendulum-v5,2,958.65
+"Adaptive KL, dtarg = 0.03",InvertedPendulum-v5,3,953.64
+"Adaptive KL, dtarg = 0.03",Reacher-v5,1,-9.978386422589686
+"Adaptive KL, dtarg = 0.03",Reacher-v5,2,-5.476321273423485
+"Adaptive KL, dtarg = 0.03",Reacher-v5,3,-9.199236667073844
+"Adaptive KL, dtarg = 0.03",Swimmer-v5,1,82.24879428427586
+"Adaptive KL, dtarg = 0.03",Swimmer-v5,2,85.77306500953298
+"Adaptive KL, dtarg = 0.03",Swimmer-v5,3,80.98608462493438
+"Fixed KL, β = 0.3",Walker2d-v5,1,591.056588202415
+"Fixed KL, β = 0.3",Walker2d-v5,2,256.01413417579164
+"Fixed KL, β = 0.3",Walker2d-v5,3,66.07255550755876
+"Fixed KL, β = 0.3",HalfCheetah-v5,1,-153868.89009196064
+"Fixed KL, β = 0.3",HalfCheetah-v5,2,-365883.63904216746
+"Fixed KL, β = 0.3",HalfCheetah-v5,3,-165438.18812492333
+"Fixed KL, β = 0.3",Hopper-v5,1,297.0833533056022
+"Fixed KL, β = 0.3",Hopper-v5,2,368.5159301204145
+"Fixed KL, β = 0.3",Hopper-v5,3,177.8104614744893
+"Fixed KL, β = 0.3",InvertedDoublePendulum-v5,1,148.76423192983026
+"Fixed KL, β = 0.3",InvertedDoublePendulum-v5,2,150.37615714388414
+"Fixed KL, β = 0.3",InvertedDoublePendulum-v5,3,145.05573540865473
+"Fixed KL, β = 0.3",InvertedPendulum-v5,1,934.61
+"Fixed KL, β = 0.3",InvertedPendulum-v5,2,1000.0
+"Fixed KL, β = 0.3",InvertedPendulum-v5,3,693.62
+"Fixed KL, β = 0.3",Reacher-v5,1,-13929739.830093233
+"Fixed KL, β = 0.3",Reacher-v5,2,-1611874.378499456
+"Fixed KL, β = 0.3",Reacher-v5,3,-3560378.5125358608
+"Fixed KL, β = 0.3",Swimmer-v5,1,70.73314275513859
+"Fixed KL, β = 0.3",Swimmer-v5,2,76.9523963859323
+"Fixed KL, β = 0.3",Swimmer-v5,3,76.74315597234958
+"Fixed KL, β = 1.0",Walker2d-v5,1,901.6919836271911
+"Fixed KL, β = 1.0",Walker2d-v5,2,621.6669251166213
+"Fixed KL, β = 1.0",Walker2d-v5,3,458.1964289420432
+"Fixed KL, β = 1.0",HalfCheetah-v5,1,-2624.1567627086347
+"Fixed KL, β = 1.0",HalfCheetah-v5,2,-489832.1771924233
+"Fixed KL, β = 1.0",HalfCheetah-v5,3,-1499.8158944877277
+"Fixed KL, β = 1.0",Hopper-v5,1,722.2539911826988
+"Fixed KL, β = 1.0",Hopper-v5,2,418.7099251184529
+"Fixed KL, β = 1.0",Hopper-v5,3,676.2530110928727
+"Fixed KL, β = 1.0",InvertedDoublePendulum-v5,1,160.881551289986
+"Fixed KL, β = 1.0",InvertedDoublePendulum-v5,2,190.7578966937141
+"Fixed KL, β = 1.0",InvertedDoublePendulum-v5,3,210.68158114503555
+"Fixed KL, β = 1.0",InvertedPendulum-v5,1,901.77
+"Fixed KL, β = 1.0",InvertedPendulum-v5,2,995.11
+"Fixed KL, β = 1.0",InvertedPendulum-v5,3,961.61
+"Fixed KL, β = 1.0",Reacher-v5,1,-34468895.27300609
+"Fixed KL, β = 1.0",Reacher-v5,2,-7.026807828161737
+"Fixed KL, β = 1.0",Reacher-v5,3,-770.4690265724428
+"Fixed KL, β = 1.0",Swimmer-v5,1,95.54070865711623
+"Fixed KL, β = 1.0",Swimmer-v5,2,95.88623590830633
+"Fixed KL, β = 1.0",Swimmer-v5,3,52.59850096372173
+"Fixed KL, β = 3.0",Walker2d-v5,1,332.62204881774994
+"Fixed KL, β = 3.0",Walker2d-v5,2,675.2941142894578
+"Fixed KL, β = 3.0",Walker2d-v5,3,260.2326609946724
+"Fixed KL, β = 3.0",HalfCheetah-v5,1,-17698.31390681598
+"Fixed KL, β = 3.0",HalfCheetah-v5,2,-4024.8292013431515
+"Fixed KL, β = 3.0",HalfCheetah-v5,3,-1117.760843995502
+"Fixed KL, β = 3.0",Hopper-v5,1,771.4594933129991
+"Fixed KL, β = 3.0",Hopper-v5,2,880.1299161520194
+"Fixed KL, β = 3.0",Hopper-v5,3,1147.5773707762514
+"Fixed KL, β = 3.0",InvertedDoublePendulum-v5,1,345.4119954051247
+"Fixed KL, β = 3.0",InvertedDoublePendulum-v5,2,361.0051041500742
+"Fixed KL, β = 3.0",InvertedDoublePendulum-v5,3,153.98671573611034
+"Fixed KL, β = 3.0",InvertedPendulum-v5,1,902.14
+"Fixed KL, β = 3.0",InvertedPendulum-v5,2,986.8
+"Fixed KL, β = 3.0",InvertedPendulum-v5,3,978.27
+"Fixed KL, β = 3.0",Reacher-v5,1,-9.209323294160184
+"Fixed KL, β = 3.0",Reacher-v5,2,-6.401989149167104
+"Fixed KL, β = 3.0",Reacher-v5,3,-9.732022404753671
+"Fixed KL, β = 3.0",Swimmer-v5,1,92.6619528318213
+"Fixed KL, β = 3.0",Swimmer-v5,2,94.34885246052856
+"Fixed KL, β = 3.0",Swimmer-v5,3,99.67154253158598
+"Fixed KL, β = 10.0",Walker2d-v5,1,420.50488673599597
+"Fixed KL, β = 10.0",Walker2d-v5,2,255.31211809379627
+"Fixed KL, β = 10.0",Walker2d-v5,3,268.54967340427805
+"Fixed KL, β = 10.0",HalfCheetah-v5,1,856.4761228121299
+"Fixed KL, β = 10.0",HalfCheetah-v5,2,2418.507785341887
+"Fixed KL, β = 10.0",HalfCheetah-v5,3,949.4513159107668
+"Fixed KL, β = 10.0",Hopper-v5,1,792.9278323790007
+"Fixed KL, β = 10.0",Hopper-v5,2,1049.160182039919
+"Fixed KL, β = 10.0",Hopper-v5,3,1057.7216620856545
+"Fixed KL, β = 10.0",InvertedDoublePendulum-v5,1,325.50601135868953
+"Fixed KL, β = 10.0",InvertedDoublePendulum-v5,2,273.2287677261877
+"Fixed KL, β = 10.0",InvertedDoublePendulum-v5,3,169.65150902691295
+"Fixed KL, β = 10.0",InvertedPendulum-v5,1,511.05
+"Fixed KL, β = 10.0",InvertedPendulum-v5,2,611.81
+"Fixed KL, β = 10.0",InvertedPendulum-v5,3,504.57
+"Fixed KL, β = 10.0",Reacher-v5,1,-12.05187513429492
+"Fixed KL, β = 10.0",Reacher-v5,2,-10.134996651232404
+"Fixed KL, β = 10.0",Reacher-v5,3,-10.556444036597464
+"Fixed KL, β = 10.0",Swimmer-v5,1,71.61197795155252
+"Fixed KL, β = 10.0",Swimmer-v5,2,72.96703637358215
+"Fixed KL, β = 10.0",Swimmer-v5,3,65.63672457318494

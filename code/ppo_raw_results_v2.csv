@@ -1,0 +1,8 @@
+algorithm,environment,seed,final_reward,steps_taken
+"Clipping, ε = 0.2",Walker2d-v5,1,3003.423880224996,4239360.0
+"Clipping, ε = 0.2",HalfCheetah-v5,1,2036.5806756811214,4136960.0
+"Clipping, ε = 0.2",Hopper-v5,1,2386.4269804049277,1331200.0
+"Clipping, ε = 0.2",InvertedDoublePendulum-v5,1,8792.76895001977,368640.0
+"Clipping, ε = 0.2",InvertedPendulum-v5,1,-inf,-inf
+"Clipping, ε = 0.2",Reacher-v5,1,-inf,-inf
+"Clipping, ε = 0.2",Swimmer-v5,1,110.83606158327945,9768960.0

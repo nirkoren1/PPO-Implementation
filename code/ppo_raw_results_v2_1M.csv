@@ -1,0 +1,8 @@
+algorithm,environment,seed,final_reward,steps_taken,one_million_reward
+"Clipping, ε = 0.2",Walker2d-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
+"Clipping, ε = 0.2",HalfCheetah-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
+"Clipping, ε = 0.2",Hopper-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
+"Clipping, ε = 0.2",InvertedDoublePendulum-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
+"Clipping, ε = 0.2",InvertedPendulum-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
+"Clipping, ε = 0.2",Reacher-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
+"Clipping, ε = 0.2",Swimmer-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf

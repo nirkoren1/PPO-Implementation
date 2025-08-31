@@ -1,6 +1,8 @@
 torch>=1.13.1
-numpy>=1.24.2
-gymnasium[classic-control,mujoco]>=0.28.1
+numpy<2.0
+gymnasium[classic-control,mujoco,atari]>=0.28.1
 tensorboard>=2.12.0
 moviepy>=1.0.3
-wandb>=0.12.0 
+wandb>=0.12.0
+ale-py>=0.8.1
+opencv-python>=4.7.0
