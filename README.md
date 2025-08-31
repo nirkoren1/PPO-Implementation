@@ -95,17 +95,7 @@ pip install -r requirements.txt
 
 Train PPO on a MuJoCo environment:
 ```bash
-python code/ppo_train.py \
-    --env-name "Walker2d-v5" \
-    --state-encoder "NoEncoder" \
-    --total-timesteps 10000000 \
-    --num-steps 2048 \
-    --update-epochs 10 \
-    --minibatch-size 64 \
-    --adam-stepsize 3e-4 \
-    --gamma 0.99 \
-    --gae-lambda 0.95 \
-    --num-envs 1
+python code/ppo_train.py --env-name "Walker2d-v5" --state-encoder "NoEncoder" --total-timesteps 10000000 --num-steps 2048 --update-epochs 10 --minibatch-size 64 --adam-stepsize 3e-4 --gamma 0.99 --gae-lambda 0.95 --num-envs 1
 ```
 
 Train on Atari with appropriate settings:
@@ -124,7 +114,7 @@ python code/ppo_train.py \
     --gae-lambda 0.95 \
     --clip-coef 0.1 \
     --vf-coef 1.0 \
-    --ent-coef 2 \
+    --ent-coef 0.01 \
     --anneal-lr \
     --anneal-clip \
     --atari \
