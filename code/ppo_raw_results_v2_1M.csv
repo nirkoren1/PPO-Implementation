@@ -1,8 +1,8 @@
 algorithm,environment,seed,final_reward,steps_taken,one_million_reward
-"Clipping, ε = 0.2",Walker2d-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
-"Clipping, ε = 0.2",HalfCheetah-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
-"Clipping, ε = 0.2",Hopper-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
-"Clipping, ε = 0.2",InvertedDoublePendulum-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
-"Clipping, ε = 0.2",InvertedPendulum-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
-"Clipping, ε = 0.2",Reacher-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
-"Clipping, ε = 0.2",Swimmer-v5,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",-inf,-inf,-inf
+"Clipping, ε = 0.2",Walker2d-v5,1,1629.6343054511547,4988928,364.92440566038255
+"Clipping, ε = 0.2",HalfCheetah-v5,1,2038.7225270771728,2457600,679.878299130632
+"Clipping, ε = 0.2",Hopper-v5,1,2464.9995818099806,1990656,925.856945558444
+"Clipping, ε = 0.2",InvertedDoublePendulum-v5,1,9095.106637768067,466944,-inf
+"Clipping, ε = 0.2",InvertedPendulum-v5,1,1000.0,4988928,1000.0
+"Clipping, ε = 0.2",Reacher-v5,1,-9.63781417591702,811008,-inf
+"Clipping, ε = 0.2",Swimmer-v5,1,55.6843890164836,4988928,34.37847537612108

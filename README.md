@@ -76,18 +76,10 @@ cd PPO-Implementation
 
 2. Install dependencies:
 ```bash
+python -m venv myenv
+.\myenv\Scripts\activate
 pip install -r requirements.txt
 ```
-
-**Requirements:**
-- torch>=1.13.1
-- numpy<2.0
-- gymnasium[classic-control,mujoco,atari]>=0.28.1
-- tensorboard>=2.12.0
-- moviepy>=1.0.3
-- wandb>=0.12.0
-- ale-py>=0.8.1
-- opencv-python>=4.7.0
 
 ## Usage
 
@@ -100,24 +92,7 @@ python code/ppo_train.py --env-name "Walker2d-v5" --state-encoder "NoEncoder" --
 
 Train on Atari with appropriate settings:
 ```bash
-python code/ppo_train.py \
-    --env-name "ALE/Alien-v5" \
-    --state-encoder "AtariImageEncoder" \
-    --discrete-action \
-    --total-timesteps 10000000 \
-    --num-envs 8 \
-    --num-steps 128 \
-    --update-epochs 3 \
-    --minibatch-size 256 \
-    --adam-stepsize 2.5e-4 \
-    --gamma 0.99 \
-    --gae-lambda 0.95 \
-    --clip-coef 0.1 \
-    --vf-coef 1.0 \
-    --ent-coef 0.01 \
-    --anneal-lr \
-    --anneal-clip \
-    --atari \
+python code/ppo_train.py --env-name "ALE/Alien-v5" --state-encoder "AtariImageEncoder" --discrete-action --total-timesteps 10000000  --num-envs 8 --num-steps 128 --update-epochs 3 --minibatch-size 256 --adam-stepsize 2.5e-4 --gamma 0.99 --gae-lambda 0.95 --clip-coef 0.1 --vf-coef 1.0  --ent-coef 0.01 --anneal-lr --anneal-clip  --atari    
 ```
 
 
